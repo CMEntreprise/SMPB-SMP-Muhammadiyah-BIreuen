@@ -1,0 +1,6 @@
+{
+  "name": "PPDB SMP Muhammadiyah Bireuen",
+  "description": "Portal Resmi Pendaftaran Peserta Didik Baru (PPDB) SMP Muhammadiyah Bireuen - Formulir Online, Verifikasi Berkas Digital, Payment Gateway Instan, Notifikasi WhatsApp & Email, serta Dasbor Staf Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
